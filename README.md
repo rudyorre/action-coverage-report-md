@@ -1,5 +1,6 @@
 <p align="center">
   <a href="https://github.com/actions/typescript-action/actions"><img alt="typescript-action status" src="https://github.com/actions/typescript-action/workflows/build-test/badge.svg"></a>
+  <a href="https://scorecard.dev/viewer/?uri=github.com/rudyorre/action-coverage-report-md"><img src="https://api.scorecard.dev/projects/github.com/rudyorre/action-coverage-report-md/badge"></a>
 </p>
 
 # Jest coverage report in Markdown
